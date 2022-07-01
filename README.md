@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eta06</h1>
 <h3 align="center">A high school student and software developer from Turkey</h3>
 <p align="center">
-📧 You can reach me via E-Mail: **emrtnhalim@gmail.com**
+  📧 You can reach me via E-Mail: <b>emrtnhalim@gmail.com</b>
 </p>
 <p align="center">
 </p>
