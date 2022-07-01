@@ -13,5 +13,5 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eta06&theme=tokyonight" alt="eta06" /></p>
 
-<img src="https://komarev.com/ghpvc/?username=eta06&color=green">
+<img align="center" src="https://komarev.com/ghpvc/?username=eta06&color=green">
 
