@@ -13,7 +13,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats-sumanth-talluri.vercel.app/api?username=eta06&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="eta06" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihadenes&theme=tokyonight" alt="eta06" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eta06&theme=tokyonight" alt="eta06" /></p>
 
 
 
