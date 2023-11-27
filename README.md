@@ -15,6 +15,6 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats-sumanth-talluri.vercel.app/api?username=eta06&theme=radical&show_icons=true" alt="eta06" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eta06&theme=radical" alt="eta06" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eta06&theme=radical&layout=compact" alt="eta06" /></p>
 
 
