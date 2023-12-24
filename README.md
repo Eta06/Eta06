@@ -17,4 +17,4 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eta06&theme=radical&layout=compact" alt="eta06" /></p>
 
-
+[![wakatime](https://wakatime.com/badge/user/018c12d2-8868-4640-af1a-e037602dbf46.svg)](https://wakatime.com/@018c12d2-8868-4640-af1a-e037602dbf46)
